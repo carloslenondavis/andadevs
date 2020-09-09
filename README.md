@@ -61,7 +61,7 @@
 ------------ | -------------
 **clenondavis@outlook.com** | **(505) 83904672**
 
-**@clenondavis**\ 
+**@clenondavis** :arrow_right: 
 [facebook](https://www.facebook.com/clenondavis) **/** [linkedin](https://www.linkedin.com/in/clenondavis/) **/** [instagram](https://www.instagram.com/clenondavis/) **/** [twitter](https://twitter.com/clenondavis)
 
 ### ✨Why I'm the right choice❓❔✨
