@@ -76,5 +76,6 @@
 * ✔️ Coding and developing skills
 * ✔️ Work with US, Europe and Latin Companies.
 
-I have the skills, ability and the workspace to compete for your position :shipit: &nbsp;Please get in touch 📢 with me.
-&nbsp;I'm ready to start ⏳⏰to work beside you.
+I have the skills, ability and the workspace to compete for your position :shipit:\
+Please get in touch 📢 with me.\
+I'm ready to start ⏳⏰to work beside you.
