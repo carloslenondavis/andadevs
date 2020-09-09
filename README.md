@@ -57,7 +57,7 @@
 
 ### Contact
 
-First Header | Second Header
+ |
 ------------ | -------------
 📥 clenondavis@outlook.com | **📲 (+505) 83904672**
 
