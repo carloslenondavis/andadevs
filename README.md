@@ -57,8 +57,9 @@
 
 ### Contact
 
-*📥 clenondavis@outlook.com*
-*📲 (+505) 83904672*
+- | -
+*📥 clenondavis@outlook.com* | *📲 (+505) 83904672*
+- | -
 
 **@clenondavis** 
 [facebook](https://www.facebook.com/clenondavis)**/**[linkedin](https://www.linkedin.com/in/clenondavis/)**/**[instagram](https://www.instagram.com/clenondavis/)**/**[twitter](https://twitter.com/clenondavis)
@@ -75,6 +76,6 @@
 * ✔️ Coding and developing skills
 * ✔️ Work with US, Europe and Latin Companies.
 
-I have the skills, ability and the workspace to compete for your position :shipit:
-Please get in touch 📢 with me.
+I have the skills, ability and the workspace to compete for your position :shipit: &nbsp;
+Please get in touch 📢 with me. &nbsp; 
 I'm ready to start ⏳⏰to work beside you.
