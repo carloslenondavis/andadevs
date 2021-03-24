@@ -31,12 +31,19 @@
 
 **Degree's**
 
-*Master in Digital Marketting and Web Analytic* `In Progress`
+*Scrum Foundation Professional Certification* `Done`
+*Scrum Master Professional Certification* `Done`
+*Master in Digital Marketting and Web Analytic* `Done`
+*Scrum + Agile Team Leadership* `In Progress`
+*Project Management (PMI, Scrum, Waterfall)* `Pending on List`
+
 
 **Books**
 
-* You Don't Know JS* `Kyle Sympson`
+* You Don't Know JS `Kyle Sympson`
 * Javascript Pattern
+* Bushcraft 101
+* What about kids `Wallernstain`
 
 ## 👯 I’m looking to collaborate on ...
 
@@ -50,6 +57,7 @@
 * Reactjs
 * Js Unit A/B Testing, E2E Testing
 * Dx topic
+* Scrum
 * Speaker
 * etc..
 
@@ -59,7 +67,7 @@
 
 :mailbox_with_no_mail: e-mail | :telephone_receiver: phone
 ------------ | -------------
-**clenondavis@outlook.com** | **(505) 83904672**
+**carloslenondavis@outlook.com** | **(505) 82650635**
 
 **@clenondavis** :arrow_right: 
 [facebook](https://www.facebook.com/clenondavis) **/** [linkedin](https://www.linkedin.com/in/clenondavis/) **/** [instagram](https://www.instagram.com/clenondavis/) **/** [twitter](https://twitter.com/clenondavis)
