@@ -31,12 +31,12 @@
 
 **Degree's**
 
-*Scrum Foundation Professional Certification* `Done`
-*Scrum Master Professional Certification* `Done`
-*Master in Digital Marketting and Web Analytic* `Done`
-*Shopify Developer Certified* `Done`
-*Scrum + Agile Team Leadership* `In Progress`
-*Project Management (PMI, Scrum, Waterfall)* `Pending on List`
+* *Scrum Foundation Professional Certification* `Done`
+* *Scrum Master Professional Certification* `Done`
+* *Master in Digital Marketting and Web Analytic* `Done`
+* *Shopify Developer Certified* `Done`
+* *Scrum + Agile Team Leadership* `In Progress`
+* *Project Management (PMI, Scrum, Waterfall)* `Pending on List`
 
 **Books**
 
