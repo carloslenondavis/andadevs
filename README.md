@@ -34,9 +34,9 @@
 *Scrum Foundation Professional Certification* `Done`
 *Scrum Master Professional Certification* `Done`
 *Master in Digital Marketting and Web Analytic* `Done`
+*Shopify Developer Certified* `Done`
 *Scrum + Agile Team Leadership* `In Progress`
 *Project Management (PMI, Scrum, Waterfall)* `Pending on List`
-
 
 **Books**
 
@@ -44,15 +44,18 @@
 * Javascript Pattern
 * Bushcraft 101
 * What about kids `Wallernstain`
+* Leadership `Dale Carnegie / John Maxwell / Stefen Covey`
 
 ## 👯 I’m looking to collaborate on ...
 
 * Any opensource or social project
-* Dx tool or project
+* Dx (Developer Experience) tools or project
+* Code Dojo Meeting
+* Js Talk
 
 ## 💬 Ask me about ...
 
-`Any topic related to Javascript. I'm interested into learn.`
+`Any topic related to Javascript and Scrum. I'm interested into learn.`
 
 * Reactjs
 * Js Unit A/B Testing, E2E Testing
@@ -69,8 +72,8 @@
 ------------ | -------------
 **carloslenondavis@outlook.com** | **(505) 82650635**
 
-**@clenondavis** :arrow_right: 
-[facebook](https://www.facebook.com/clenondavis) **/** [linkedin](https://www.linkedin.com/in/clenondavis/) **/** [instagram](https://www.instagram.com/clenondavis/) **/** [twitter](https://twitter.com/clenondavis)
+**@clenondavis @boykland** :arrow_right: 
+[facebook](https://www.facebook.com/clenondavis) **/** [linkedin](https://www.linkedin.com/in/clenondavis/) **/** [Stackoverflow](https://stackoverflow.com/users/3859088/boykland?tab=profile)
 
 ### ✨Why I'm the right choice❓❔✨
 
