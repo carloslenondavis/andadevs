@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*-- four min of reading ⌚ --*
+*-- two min of reading ⌚ --*
 
 # Welcome to my profile!! 😄🙏**
 
