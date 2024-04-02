@@ -16,7 +16,7 @@
 * UxUi talks
 
 ## 🚶Contribution
-* Participating in the TGC Opensource React Native App project
+* Participating in the Opensource React Native App project [TCG](https://github.com/victorstein/TGC)
 
 ## 📫 How to reach me ...
 
