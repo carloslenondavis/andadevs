@@ -15,6 +15,9 @@
 * Frontend Talks
 * UxUi talks
 
+## 🚶Contribution
+* Participating in the TGC Opensource React Native App project
+
 ## 📫 How to reach me ...
 
 ### Contact
